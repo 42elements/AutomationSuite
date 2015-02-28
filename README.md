@@ -1,5 +1,4 @@
 # AutomationSuite
-All things AutomationSuite
 
 ### Modules
 
