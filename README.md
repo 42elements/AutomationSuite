@@ -20,4 +20,4 @@ https://42elements.com/automation-suite/scripting-examples
 
 All scripts are made available under the permissive MIT license.
 
-We are happily accepting pull requests :-)
+We are happily accepting pull requests :smile:
