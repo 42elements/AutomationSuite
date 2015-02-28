@@ -4,7 +4,6 @@
 // @date 01.01.2014
 // @description Inspects arbitrary web services and generates JavaScript code for use within 42elements' Automation Suite.
 // @author Philipp Lehmann
-// @email [email protected]
 // @website http://42elements.com
 // ==/AutomationScript==
 
